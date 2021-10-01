@@ -1,5 +1,5 @@
 # Jurnal Modul 02
 
-NIM: 
+NIM: 6706219999
 
-Nama: 
+Nama: Indra Azimi
